@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://lucasceballos.github.io
+title: Lucas Ceballos
+tagline: Test
+description: My awesome new site
+paginate: 10
